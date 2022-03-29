@@ -1,6 +1,6 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-import {Task} from '../../task'
-import {TASKS} from '../../mock-tasks'
+import {Task} from '../../task';
+import {TASKS} from '../../mock-tasks';
 import {faTimes} from '@fortawesome/free-solid-svg-icons';
 
 @Component({

@@ -1,4 +1,5 @@
-import {Task} from "./task"
+import {Task} from "./task";
+
 export const TASKS: Task[] = [
     {
     id: 1,
@@ -6,6 +7,7 @@ export const TASKS: Task[] = [
     day: 'Agosto 5 a las 12:00',
     reminder: true
     },
+    
     {
     id: 2,
     text: 'Hacer las compras para la cena',
